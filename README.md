@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amr Salah! ( AmrSalah11 )
+# 👋 Hi, I'm Amr Salah! (11Amr)
 
 ### Software Tester | QA Engineer | ISTQB Certified
 
