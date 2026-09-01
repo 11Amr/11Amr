@@ -31,18 +31,23 @@ I enjoy analyzing systems, identifying defects, designing effective test scenari
 
 ---
 
-## 🚀 Featured Projects
+<div align="right">
 
-| Project | Description | Tools |
-|---|---|---|
-| 🧑‍💼 **OrangeHRM Automation Testing** | Automated 11 test scenarios covering Login, PIM, Employee Management, Admin, navigation and UI validation. Implemented POM, Data-Driven Testing, parallel execution and Allure reporting. | Java, Selenium, TestNG, POM, JSON, Allure |
-| 🛒 **Swag Labs Automation Testing** | Built an automation framework covering Login, Inventory, Cart, Checkout, social links, price calculations, edge cases and application state verification. | Java, Selenium, TestNG, POM, JSON |
-| 🏦 **GURU99 Bank — Full QA** | Designed 115 test cases and logged 47 defects across 8+ banking modules. | Jira, Excel, DevTools |
-| 🌐 **Restful Booker API Testing** | Created an authentication-aware Postman test suite covering GET, POST, PUT and PATCH requests with response and JSON Schema validation. | Postman, Newman, GitHub |
-| 🎬 **TMDB API Testing** | Designed and executed 11 API scenarios covering Movies, TV Shows, Genres, People, Search and the Discover engine. | Postman, Newman, GitHub |
-| 📚 **Library System — Java** | Developed an OOP-based console application for managing Books, DVDs and Magazines. | Java, OOP, Exception Handling |
-| 🔢 **Number Analyzer — Java** | Developed a menu-driven Java console application using reusable and modular methods. | Java |
-| 🗃️ **Employee Database System** | Designed a relational database for managing employees, departments and roles. | SQL |
+## Connect with Me 🤙
+
+<a href="https://linkedin.com/in/amr-salah-89531723b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:amr1031salah@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/11Amr" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
