@@ -2,19 +2,24 @@
 
 ### Software Tester | QA Engineer | ISTQB Certified
 
-Welcome to my GitHub profile! I'm passionate about *software quality, **test automation, and making sure every release is **bug-free and reliable*. I enjoy breaking things before users do — systematically.
+Welcome to my GitHub profile!
+
+I'm passionate about **software quality, test automation, API testing, and building reliable software**.  
+I enjoy analyzing systems, identifying defects, designing effective test scenarios, and automating repetitive testing workflows.
 
 ---
 
 ## 🔍 What I Do
 
-- 🖊️ *Manual Testing* — Test case design, BVA, EP, Decision Tables, Bug Lifecycle
-- 🤖 *Test Automation* — Selenium WebDriver + Java, Cucumber (BDD)
-- 🌐 *API Testing* — Postman, Newman, REST APIs, JSON Schema Validation
-- ⚡ *Performance Testing* — Apache JMeter (Load, Stress, Performance)
-- 📱 *Mobile Testing* — Fundamentals & tools
-- 🗄️ *Database Testing* — SQL queries & data validation
-- 🔁 *Agile/Scrum* — Jira, sprint ceremonies, defect management
+- 🖊️ **Manual Testing** — Test Case Design, BVA, EP, Decision Tables, Bug Reporting & Defect Lifecycle
+- 🤖 **Test Automation** — Selenium WebDriver, Java, TestNG, Page Object Model (POM)
+- 📊 **Data-Driven Testing** — JSON-based test data and reusable test frameworks
+- 🌐 **API Testing** — Postman, Newman, REST APIs, JSON Schema Validation
+- ⚡ **Performance Testing** — Apache JMeter
+- 📱 **Mobile Testing** — Testing Fundamentals
+- 🗄️ **Database Testing** — SQL Queries & Data Validation
+- 🔁 **Agile / Scrum** — Jira, Sprint Ceremonies, User Stories & Defect Management
+- 📈 **Test Reporting** — Allure Reports
 
 ---
 
@@ -30,23 +35,29 @@ Welcome to my GitHub profile! I'm passionate about *software quality, **test aut
 
 | Project | Description | Tools |
 |---|---|---|
-| 🏦 GURU99 Bank — Full QA | 115 test cases, 47 bugs logged across 8+ modules | Jira, Excel, DevTools |
-| 🌐 Restful Booker API | Auth-aware Postman suite, CRUD validation, JSON Schema | Postman, Newman |
-| 🎬 TMDB API Testing | 11 scenarios across movies, TV, Discover engine | Postman, Newman | GitHub |
-| 📚 Library System — Java | OOP-based console app: Books, DVDs, Magazines | Java, OOP, Exception Handling | GitHub |
-| 🔢 Number Analyzer — Java | Menu-driven console app with modular static methods | Java | GitHub |
-| 🗃️ Employee DB System | Relational DB for employees, departments & roles | SQL | GitHub |
+| 🧑‍💼 **OrangeHRM Automation Testing** | Automated 11 test scenarios covering Login, PIM, Employee Management, Admin, navigation and UI validation. Implemented POM, Data-Driven Testing, parallel execution and Allure reporting. | Java, Selenium, TestNG, POM, JSON, Allure |
+| 🛒 **Swag Labs Automation Testing** | Built an automation framework covering Login, Inventory, Cart, Checkout, social links, price calculations, edge cases and application state verification. | Java, Selenium, TestNG, POM, JSON |
+| 🏦 **GURU99 Bank — Full QA** | Designed 115 test cases and logged 47 defects across 8+ banking modules. | Jira, Excel, DevTools |
+| 🌐 **Restful Booker API Testing** | Created an authentication-aware Postman test suite covering GET, POST, PUT and PATCH requests with response and JSON Schema validation. | Postman, Newman, GitHub |
+| 🎬 **TMDB API Testing** | Designed and executed 11 API scenarios covering Movies, TV Shows, Genres, People, Search and the Discover engine. | Postman, Newman, GitHub |
+| 📚 **Library System — Java** | Developed an OOP-based console application for managing Books, DVDs and Magazines. | Java, OOP, Exception Handling |
+| 🔢 **Number Analyzer — Java** | Developed a menu-driven Java console application using reusable and modular methods. | Java |
+| 🗃️ **Employee Database System** | Designed a relational database for managing employees, departments and roles. | SQL |
 
 ---
 
 ## 🛠️ Tech Stack
 
-
-Testing       → Manual Testing · Selenium WebDriver · Cucumber · JMeter · Postman · Newman
-Languages     → Java · SQL
-Concepts      → STLC · SDLC · ISTQB · BVA · EP · Decision Table · Bug Lifecycle
-API           → REST · JSON · HTTP · Auth/AuthZ · Postman Collections
-Management    → Jira · Git · GitHub · Agile · Scrum- 
+```text
+Automation     → Selenium WebDriver · TestNG · Page Object Model · Data-Driven Testing
+API Testing    → Postman · Newman · REST APIs · JSON Schema Validation
+Performance    → Apache JMeter
+Languages      → Java · SQL
+Test Design    → BVA · EP · Decision Tables · Positive & Negative Testing
+Concepts       → SDLC · STLC · ISTQB · Defect Lifecycle · Regression · Smoke Testing
+Reporting      → Allure Report
+Management     → Jira · Git · GitHub · Agile · Scrum
+Data           → JSON · SQL
 
 ---
 
