@@ -31,7 +31,7 @@ I enjoy analyzing systems, identifying defects, designing effective test scenari
 
 ---
 
-<div align="right">
+<div align="left">
 
 ## Connect with Me 🤙
 
